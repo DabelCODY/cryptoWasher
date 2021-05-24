@@ -1,7 +1,8 @@
 # cryptoWasher
 
 ## Úvod
-DYI riešenie uloženia seedov. Celé riešenie sa skladá z podložiek a metrickej skrutky s maticou. Aktualne riešenie je postavné na veľkosti M8, kvoli dostatočnej hrúbke podložiek (cca 2mm) a priestoru pre raznice 4mm.
+DYI riešenie pre bezpečnejšie uloženia [seed](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)ov. Konštrukcia sa skladá z metrickej skrutky, ktoré tvorí telo a podložký dostatočnej veľkosti a hrúbky.
+Riešenie s použitím veľkosti skrutky M8 a podložiek s vonkajším priemerom 24mm a hrúbkou 2mm mi prislo ako idélne. Použité raznice veľkosti 4mm sú dobre čitatelné a "kvalitne" hlboko vyrazené. 
 
 ## Materiál
 
