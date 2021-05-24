@@ -1,7 +1,7 @@
 # cryptoWasher
 
 ## Úvod
-DYI riešenie uloženia seedov. Celé riešenie sa dá spraviť s podložkami M8 a klasickým šróbom a maticou. Pri počte 25 podložiek je hrúbka 50mm.
+DYI riešenie uloženia seedov. Celé riešenie sa skladá z podložiek a metrickej skrutky s maticou. Aktualne riešenie je postavné na veľkosti M8, kvoli dostatočnej hrúbke podložiek (cca 2mm) a priestoru pre raznice 4mm.
 
 ## Materiál
 
@@ -29,6 +29,8 @@ https://www.yachtershop.sk//palubne-vybavenie/kovania,-kladky-a-zaseky/nerezove-
 
 Obchod: www.yachtershop.sk
 
+### Raznice ###
+Použité sú razníky veľkosti textu 4mm a hrúbky tela ???x???mm. Objednane na ebay. ABC a 123
 
 ### 3D Tlač
 
