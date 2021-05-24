@@ -1,4 +1,4 @@
-# cryptoseed
+# cryptoWasher
 
 ## Úvod
 DYI riešenie uloženia seedov. Celé riešenie sa dá spraviť s podložkami M8 a klasickým šróbom a maticou. Pri počte 25 podložiek je hrúbka 50mm.
